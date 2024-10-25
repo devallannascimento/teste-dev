@@ -3,7 +3,7 @@
 
 ### Instruções Gerais
 
-1. **Fork do Repositório:** Faça um fork deste repositório.
+1. **Fork do Repositório:** Faça um fork **PÚBLICO** deste repositório.
 2. **Tecnologias a serem utilizadas:**
    - **Backend:** Laravel 11
    - **Banco de Dados:** PostgreSQL
